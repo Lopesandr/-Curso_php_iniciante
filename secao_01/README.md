@@ -7,10 +7,12 @@ PHP é uma linguagem de programação com foco maior em desenvolvimento web.
 ## Sintaxe inicial:
 
 
-`<?`: Usado para indicar o inicio de um arquivo em PHP.
+`<?php`: Usado para indicar o inicio de um arquivo em PHP.
 
 `?>`: Usado para indicar o fim de um arquivo PHP, mas o uso não se torna orbigatório. 
 
 `;`: É necessário o uso ao fim de todo comando. 
 
 `echo`: Usado para printar na tela alguma mensagem. 
+
+`phpinfo()`: Uma função que informa todas as extensões e informações importantes sobre o php que o projeto esta utilizando.
