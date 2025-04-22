@@ -1,4 +1,4 @@
-#Seção 1 
+# Seção 1 
 Esta seção é sobre os conceitos básicos do PHP, de onde vem, oque é, instalação e sintaxe inicial. 
 
 ## Oque é PHP? 
