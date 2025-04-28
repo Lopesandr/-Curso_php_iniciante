@@ -7,3 +7,7 @@ Link do curso realizad: [Curso PHP iniciante](https://www.udemy.com/course/php-d
 ### [Seção 1 - Introdução](./secao_01/)
 
 Nesta seção é apresentado os conceitos iniciais, como oque é PHP, para que serva e a sintaxe básica. 
+
+### [Seção 1 - Conceitos básicos de PHP](./secao_02/)
+
+Nesta seção é a continuação de conceitos básicos, como sensibilidade a case, comentários e algumas palavras reservadas. 
