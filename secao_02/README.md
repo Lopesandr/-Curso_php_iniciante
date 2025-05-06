@@ -1,14 +1,15 @@
 # Seção 2
-Esta seção é a apresentado os tipos de dados em PHP. 
+Esta seção é a continuação de conceitos básicos, como sensibilidade a case, comentários e algumas palavras reservadas. 
 
-### Tipos de dados: 
+### Sensibilidade a case: 
+No php as instruções não são case sensitve, usar `echo` ou `ECHO` não tem diferença. Mas as váriavíes são case sentive, usar `$NOME` e `$nome`, são duas varíaveis diferentes. 
 
-- Inteiros: Números inteiros, como: 1, 2, 3... 
-  Verificar se o dado é inteiro, utilizando uma função nativa do php:
-- Float:  Números com casas decimais, como 1.2, 1.3...
+### Espaços em branco: 
+O PHP não é sensível aos espaços em brancos, então se houver quebra de linha ou espaços em branco será ignorado,  mas manter quebras de linha e espaços em branco não é uma pratica recomenada. 
 
+### Comentários: 
+ `//` ou `#` : Comentário para apenas uma linha, deve se iniciar a barra barra.
+ `/* comentario */` : Comentário de multiplas linhas. 
 
-### Como verificar se o tipo de dado e tal...
-
-- Int - `is_int(1)` : Se  retornar True, é inteiro. 
-- Float - `is_float(1)` : Se  retornar True, é um float. 
+ ### Palavras Reservadas: 
+ São palavras que são reservadas da linguagem para uso de funções próprias da linguagem, e esta palavras não devem ser utilizadas em funções próprias. 
