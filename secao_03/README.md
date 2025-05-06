@@ -1,4 +1,4 @@
-# Seção 2
+# Seção 3
 Esta seção é a apresentado os tipos de dados em PHP. 
 
 ### Tipos de dados: 
