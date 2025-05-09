@@ -29,3 +29,12 @@ Esta seção é a apresentado os tipos de dados em PHP.
 - String - `is_strint('Oi');` : Se retornar True é uma string.
 - Boolean - `is_bool(True);` : Se retornar True é porque é um boolean. 
 - Null - `is_null(NULL);` : Retorna True se o valor for NULL.
+
+
+# Seção 4
+Esta seção é apresentado as variáveis. Váriaveis são formar de declarar um valor e salvar na memória, mas sendo possível alterar ao longo programa se for a necessidade. 
+
+Sintaxe para declarar váriavel no PHP: 
+```php
+   $idade = 23
+
