@@ -17,3 +17,7 @@ Nesta seção é a continuação de conceitos básicos, como sensibilidade a cas
 
 Nesta seção é a apresentado os tipos de dados em PHP. 
 
+
+### [Seção 4 - Variáveis](./secao_04/)
+
+Nesta seção é apresentado as variáveis em PHP. 
