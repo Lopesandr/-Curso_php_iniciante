@@ -1,6 +1,14 @@
 # Seção 4
 Esta seção é apresentado as variáveis. Váriaveis são formas de declarar um valor e salvar na memória, mas sendo possível alterar ao longo programa se for a necessidade. 
 
-Sintaxe para declarar váriavel no PHP: 
+- Sintaxe para declarar váriavel no PHP: 
 ```php
-   $idade = 23
+    $idade = 23;
+
+- Varíavel de varíavel: 
+   É possível criar com nome do valor que contém em uma varíavel. 
+   Sintaxe: 
+   ```php
+      $x = idade;
+      $$x = 23;
+
