@@ -21,3 +21,7 @@ Nesta seção é a apresentado os tipos de dados em PHP.
 ### [Seção 4 - Variáveis](./secao_04/)
 
 Nesta seção é apresentado as variáveis em PHP. 
+
+### [Seção 5 - Expressões e operadores](./secao_05/)
+
+Nesta seção é apresentado as espressões e os operadores em PHP.
