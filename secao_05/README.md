@@ -27,7 +27,7 @@ Exemplo:
 ## Auto incremento e auto decremento:
 Para aumentar ou diminuir mais um se usa os operadores ++ ou -- do lado do nome da varíavel. 
 Exemplo: 
- php 
+ ```php 
 $a = 1; 
 $a++
 $a--
