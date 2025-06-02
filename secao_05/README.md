@@ -33,6 +33,15 @@ $a++
 $a--
  ```
 
+## Auto Cast: 
+Se refere a conervsão automática de dados, por exemplo realizar uma operação aritimética com um string que contém um número, o php converte essa string para inteiro para realizar a operação.
+Exemplo: 
+```php
+$num = "10";
+$resultado = $num + 5; 
+echo $resultado;
+```
+
 ## Operadores de comparação: 
 - Igualdade: ==
 - Idêntico, também verifica se tipo de dado é o mesmo: ===
