@@ -35,8 +35,8 @@ $a--
 
 ## Operadores de comparação: 
 - Igualdade: ==
--Idêntico: ===
+- Idêntico, também verifica se tipo de dado é o mesmo: ===
 - Diferença: !=
-- Não idêntico a: !==
+- Não idêntico a, também verifica se tipo de dado é o     mesmo: !==
 - Maior e maior ou igual a: > e >=
 - Menor e menor ou igual a: < e <=
