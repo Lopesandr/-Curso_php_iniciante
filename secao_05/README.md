@@ -43,9 +43,41 @@ echo $resultado;
 ```
 
 ## Operadores de comparação: 
-- Igualdade: ==
-- Idêntico, também verifica se tipo de dado é o mesmo: ===
+- Igualdade: - Sintaxe: ==
+- Idêntica: Verifica se tipo de dado é o mesmo - Sintaxe: ===
 - Diferença: !=
-- Não idêntico a, também verifica se tipo de dado é o     mesmo: !==
-- Maior e maior ou igual a: > e >=
-- Menor e menor ou igual a: < e <=
+- Não idêntico a: Verifica se tipo de dado é o  mesmo - Sintaxe: !==
+- Maior e maior ou igual a: - Sintaxe: > e >= 
+- Menor e menor ou igual a: - Sintaxe: < e <= 
+
+
+## Operadores Lógicos: 
+- AND: Ambas operações precisa ser verdadeira para retornar True - Sintaxe: && 
+- OR:  Uma das operações precisa verdadeira para retornar True - Sintaxe: ||
+- NOT: Inverte o resultado, se o resultado for True é invertido para False com NOT - Sintaxe: !
+
+## Operadores de conversão: 
+Seria definir que o valor seja sempre de um tipo. 
+Sintaxe: 
+```php
+$a = (int) "12"; 
+$b = int 2; 
+```
+
+## Operadores de atribuição: 
+- =  : Atribuir um valor a uma varíavel. 
+- += : Soma e realiza a atribuição. 
+- -= : Substrai e realiza a atribuição. 
+- *= : Multiplica e realiza a atribuição. 
+- /= : Dividi e realiza a atribuição. 
+- %= : Realiza o mod e a atribuição. 
+
+## Operadores ternários: 
+É uma estrutura IF de uma forma resumida. 
+A estutura é: Condição ? Exececução se for True : Execução se for False  
+A execução se for False é opciconal, poderia ser apenas assim: 
+Condição ? Exececução se for True
+Sintaxe: 
+```php
+echo 5 > 2 ?  "5 é maior que 2" :  "5 é menor que 2";
+```
