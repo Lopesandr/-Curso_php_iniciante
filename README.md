@@ -25,3 +25,8 @@ Nesta seção é apresentado as variáveis em PHP.
 ### [Seção 5 - Expressões e operadores](./secao_05/)
 
 Nesta seção é apresentado as espressões e os operadores em PHP.
+
+### [Seção 6 - Estrutura de controle](./secao_06/)
+
+Nesta seção é apresentado  as estruturas de controle.
+
