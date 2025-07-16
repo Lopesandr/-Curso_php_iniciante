@@ -9,3 +9,15 @@ if( 5 > 2) {
     echo "5 é maior que 2.";
 }
 ``` 
+
+## Estrutura else:
+É executado quando nenhum if da certo, no else não é inserido expressões. 
+Sintaxe: 
+```php 
+if( 5 > 2) {
+    echo "5 é maior que 2.";
+}
+else {
+    echo "5 não é menor que 2.";
+}
+``` 
